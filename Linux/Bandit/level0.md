@@ -1,4 +1,4 @@
-Level 0 → Level 1
+Level 0 
 
 Task
 Log into the Bandit server using SSH. Connect to bandit.labs.overthewire.org on port 2220 using the username bandit0 and password bandit0.
