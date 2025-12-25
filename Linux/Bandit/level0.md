@@ -1,11 +1,12 @@
-Level 0 
+Level 0 → 1
 
 Task
-Log into the Bandit server using SSH. Connect to bandit.labs.overthewire.org on port 2220 using the username bandit0 and password bandit0.
+Find the password for the next level in a file called readme located in the home directory, then use that password to log into bandit1 via SSH on port 2220.
 
 Solutions
-ssh into the bandit server using ssh bandit0@bandit.labs.overthewire.org -p 2220, then log in using the password given.
-
+Look at the contents of the directory using ls. 
+Found the "readme" file, then used cat to view the contents.
 
 Commands I used
-ssh 
+cat 
+ls
