@@ -14,13 +14,6 @@ The repo is organised by topic:
 - `Git/` – Git concepts, commands, and examples (to be added)
 - `Networking/` – notes and practical examples (to be added)
 
-Future folders:
-- `Docker/`
-- `AWS/`
-- `Terraform`
-- `CI-CD`
-- `Kubernetes`
-
 ## How I Use This Repo
 - Focus on short, practical notes instead of long theory
 - Each Bandit level includes:
