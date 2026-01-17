@@ -21,5 +21,5 @@ Create a script that automates directory and file creation.
 mkdir bash_demo
 cd bash_demo
 touch demo.txt
-echo "This file was created on $(date)" >> demo.txt
+echo "This file was created by a Bash script on $(date)" >> demo.txt
 cat demo.txt
