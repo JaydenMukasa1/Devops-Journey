@@ -1,10 +1,22 @@
-Challenge 2: File Operations Script
+## Challenge 1: Arithmetic Calculator
 
-Create a script that automates directory and file creation.
 
-Requirements:
-Create a directory called bash_demo
-Navigate into the directory
-Create a file called demo.txt
-Write text to the file (include current date)
-Display the file contents
+
+---
+
+### Requirements
+
+
+
+
+
+---
+
+### Solution
+
+```bash
+mkdir bash_demo
+cd bash_demo
+touch demo.txt
+echo "This file was created on $(date)" >> demo.txt
+cat demo.txt
