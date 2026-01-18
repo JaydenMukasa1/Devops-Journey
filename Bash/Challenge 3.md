@@ -1,4 +1,4 @@
-## Challenge 2: File operations script 
+## Challenge 3: File operations script 
 
 Create a script that checks if a file exists and displays its permissions.
 
