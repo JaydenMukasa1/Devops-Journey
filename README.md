@@ -11,8 +11,8 @@ The repo is organised by topic:
 - `Linux/` – notes, commands, and exercises  
   - `Bandit/` – level-by-level notes and solutions from the OverTheWire Bandit wargame
 - `Bash/` – scripts and exercises
-- `Git/` – Git concepts, commands, and examples (to be added)
-- `Networking/` – notes and practical examples (to be added)
+- `Git/` – Git concepts, commands, and examples 
+- `Networking/` – notes and practical examples 
 
 ## How I Use This Repo
 - Focus on short, practical notes instead of long theory
