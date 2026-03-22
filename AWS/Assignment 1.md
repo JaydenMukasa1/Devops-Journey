@@ -30,7 +30,16 @@ Public EC2: launch in public subnet with public IP
 
 
 Private EC2: launch in private subnet without public IP
+<img width="2780" height="1282" alt="image" src="https://github.com/user-attachments/assets/3d2e295f-b6e2-472d-8993-8ef63587c1b6" />
 
+
+# 5. Security
+
+Public EC2 SG: allow SSH/HTTP only from your IP
+<img width="1416" height="262" alt="PUBLIC SECURITY" src="https://github.com/user-attachments/assets/2be08a12-96c1-464f-84be-126cfa55b050" />
+
+
+Private EC2 SG: allow only internal access (e.g. from public EC2 or Bastion host)
 
 
 
