@@ -21,6 +21,16 @@ Public route table → default route via IGW
 <img width="1408" height="240" alt="Screenshot 2026-03-22 at 15 27 56" src="https://github.com/user-attachments/assets/434c2979-3b53-434d-af54-71fcf4241370" />
 
 Private route table → default route via NAT Gateway
+<img width="1429" height="535" alt="Screenshot 2026-03-22 at 15 32 05" src="https://github.com/user-attachments/assets/a4db4802-f526-48b0-867c-655ba71c1e40" />
+
+# 4. EC2 Instances
+
+Public EC2: launch in public subnet with public IP
+
+
+
+Private EC2: launch in private subnet without public IP
+
 
 
 
