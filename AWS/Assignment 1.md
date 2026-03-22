@@ -17,3 +17,10 @@ Create NAT Gateway in the public subnet
 
 # 3. Route Tables
 
+Public route table → default route via IGW
+<img width="1408" height="240" alt="Screenshot 2026-03-22 at 15 27 56" src="https://github.com/user-attachments/assets/434c2979-3b53-434d-af54-71fcf4241370" />
+
+Private route table → default route via NAT Gateway
+
+
+
