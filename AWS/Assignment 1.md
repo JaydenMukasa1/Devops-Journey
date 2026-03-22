@@ -40,6 +40,7 @@ Public EC2 SG: allow SSH/HTTP only from your IP
 
 
 Private EC2 SG: allow only internal access (e.g. from public EC2 or Bastion host)
+<img width="2774" height="754" alt="image" src="https://github.com/user-attachments/assets/8f36f588-acca-4db7-be99-b484125d6313" />
 
 
 
