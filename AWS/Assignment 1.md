@@ -8,3 +8,8 @@ Create a custom VPC with one public and one private subnet, set up the correct r
 
 Attach internet gateway
 <img width="1425" height="176" alt="Screenshot 2026-03-22 at 15 07 14" src="https://github.com/user-attachments/assets/18835f8e-534a-4ca3-9931-91a30caee1cd" />
+
+Create Elastic IP
+<img width="1417" height="523" alt="Screenshot 2026-03-22 at 15 10 40" src="https://github.com/user-attachments/assets/fa2534a1-3bf1-4cfd-8e72-3841e2840424" />
+
+Create NAT Gateway in the public subnet
