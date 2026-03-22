@@ -13,3 +13,7 @@ Create Elastic IP
 <img width="1417" height="523" alt="Screenshot 2026-03-22 at 15 10 40" src="https://github.com/user-attachments/assets/fa2534a1-3bf1-4cfd-8e72-3841e2840424" />
 
 Create NAT Gateway in the public subnet
+<img width="1425" height="575" alt="Screenshot 2026-03-22 at 15 23 34" src="https://github.com/user-attachments/assets/e66b7dd0-36ff-41a4-ba7a-fc527fc41c4a" />
+
+# 3. Route Tables
+
