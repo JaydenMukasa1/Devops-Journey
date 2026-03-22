@@ -26,7 +26,7 @@ Private route table → default route via NAT Gateway
 # 4. EC2 Instances
 
 Public EC2: launch in public subnet with public IP
-
+<img width="2710" height="1332" alt="image" src="https://github.com/user-attachments/assets/566eb981-c31d-4b16-b891-932aa9324ad4" />
 
 
 Private EC2: launch in private subnet without public IP
