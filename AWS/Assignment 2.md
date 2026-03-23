@@ -13,8 +13,10 @@ Second instance
 <img width="2786" height="1258" alt="image" src="https://github.com/user-attachments/assets/051822f7-6798-439e-967f-166a27e532d9" />
 
 Use different availability zones where possible
+
 Instance 1 AZ
 <img width="2418" height="242" alt="image" src="https://github.com/user-attachments/assets/f6a025ff-1950-4128-a7f0-f16b4b8ee402" />
 
 Instance 2 AZ
+
 
