@@ -10,6 +10,13 @@ VPC creation:
 <img width="2792" height="800" alt="image" src="https://github.com/user-attachments/assets/0f295f80-32c8-4dd3-848c-516af1fde83e" />
 
 ## Task 2: Set up the ALB
+Add HTTP (port 80) listener & Create a Target Group
+
+<img width="1978" height="478" alt="image" src="https://github.com/user-attachments/assets/11afe218-e3a1-498b-bfb4-5becaf8624d4" />
+
+Configure a health check on the root path /
+
+<img width="2708" height="674" alt="image" src="https://github.com/user-attachments/assets/5de94929-ade0-4d94-8f9a-e7ea44b575fc" />
 
 ## Task 3: Security groups
 ALB SG: allow HTTP from anywhere
