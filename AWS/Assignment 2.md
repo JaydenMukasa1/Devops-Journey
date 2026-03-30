@@ -10,6 +10,10 @@ VPC creation:
 <img width="2792" height="800" alt="image" src="https://github.com/user-attachments/assets/0f295f80-32c8-4dd3-848c-516af1fde83e" />
 
 ## Task 2: Set up the ALB
+Create ALB in two public subnets
+
+<img width="3308" height="1322" alt="image" src="https://github.com/user-attachments/assets/049986f1-3e83-4976-91ac-eb3249311753" />
+
 Add HTTP (port 80) listener & Create a Target Group
 
 <img width="1978" height="478" alt="image" src="https://github.com/user-attachments/assets/11afe218-e3a1-498b-bfb4-5becaf8624d4" />
