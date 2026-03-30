@@ -18,6 +18,10 @@ Configure a health check on the root path /
 
 <img width="2708" height="674" alt="image" src="https://github.com/user-attachments/assets/5de94929-ade0-4d94-8f9a-e7ea44b575fc" />
 
+Register both EC2 Instances
+
+<img width="2746" height="734" alt="image" src="https://github.com/user-attachments/assets/a9d681de-c3b5-4368-8644-2df16b4117cd" />
+
 ## Task 3: Security groups
 ALB SG: allow HTTP from anywhere
 
