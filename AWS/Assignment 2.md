@@ -14,8 +14,9 @@ VPC creation:
 ## Task 3 Security groups
 ALB SG: allow HTTP from anywhere
 
-<img width="3296" height="1530" alt="image" src="https://github.com/user-attachments/assets/98bf7cc9-77d3-4d4b-abfd-3ab951e40a3e" />
+<img width="2844" height="1010" alt="image" src="https://github.com/user-attachments/assets/6dc29fd1-e96f-41da-8ae7-8c11660c3b6e" />
+
 
 EC2 SG: allow HTTP only from the ALB SG
 
-<img width="3290" height="1320" alt="image" src="https://github.com/user-attachments/assets/7bffae4b-a34e-46ab-876d-1e18914d8115" />
+<img width="3296" height="1458" alt="image" src="https://github.com/user-attachments/assets/ae0357c1-daf2-455f-9b63-4adffaa882bc" />
