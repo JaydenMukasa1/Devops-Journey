@@ -44,4 +44,7 @@ Visit the ALB DNS name & Refresh to verify traffic alternates between both insta
 
 <img width="1533" height="770" alt="Screenshot 2026-04-01 at 20 37 16" src="https://github.com/user-attachments/assets/4515c81f-5100-4922-ab93-01cb04616792" />
 
+Confirm health checks are healthy
+
+<img width="1411" height="459" alt="Screenshot 2026-04-01 at 20 39 21" src="https://github.com/user-attachments/assets/dc6ab6d1-cf4a-4fe3-8627-05ee199b8a25" />
 
