@@ -40,9 +40,10 @@ EC2 SG: allow HTTP only from the ALB SG
 
 Visit the ALB DNS name & Refresh to verify traffic alternates between both instances
 
-<img width="1527" height="670" alt="Screenshot 2026-04-01 at 20 37 05" src="https://github.com/user-attachments/assets/49e2c914-b15b-401a-8c55-346a4ea0c3db" />
+<img width="2924" height="426" alt="image" src="https://github.com/user-attachments/assets/6344b5ba-951d-40f0-980d-a5f39b428553" />
 
-<img width="1533" height="770" alt="Screenshot 2026-04-01 at 20 37 16" src="https://github.com/user-attachments/assets/4515c81f-5100-4922-ab93-01cb04616792" />
+<img width="3070" height="322" alt="image" src="https://github.com/user-attachments/assets/480119e9-6ec5-4ee3-b086-3a6592685689" />
+
 
 Confirm health checks are healthy
 
