@@ -35,3 +35,13 @@ ALB SG: allow HTTP from anywhere
 EC2 SG: allow HTTP only from the ALB SG
 
 <img width="3296" height="1458" alt="image" src="https://github.com/user-attachments/assets/ae0357c1-daf2-455f-9b63-4adffaa882bc" />
+
+## Task 4: Testing 
+
+Visit the ALB DNS name & Refresh to verify traffic alternates between both instances
+
+<img width="1527" height="670" alt="Screenshot 2026-04-01 at 20 37 05" src="https://github.com/user-attachments/assets/49e2c914-b15b-401a-8c55-346a4ea0c3db" />
+
+<img width="1533" height="770" alt="Screenshot 2026-04-01 at 20 37 16" src="https://github.com/user-attachments/assets/4515c81f-5100-4922-ab93-01cb04616792" />
+
+
