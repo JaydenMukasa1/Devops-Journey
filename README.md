@@ -1,23 +1,13 @@
 # DevOps Journey
 
-This repository tracks my learning journey into DevOps.
-
-## Aim
-To build solid fundamentals in Linux, Bash, Git, Networking, and core DevOps tools, as well as maintain a clear, public record of progress and real skills.
+A centralised record of my hands-on learning across core DevOps disciplines — Linux, Bash, and AWS.
 
 ## Structure
-The repo is organised by topic:
 
-- `Linux/` – notes, commands, and exercises  
-  - `Bandit/` – level-by-level notes and solutions from the OverTheWire Bandit wargame
-- `Bash/` – scripts and exercises
-- `Git/` – Git concepts, commands, and examples 
-- `AWS/` – notes and practical examples 
+- `Linux/` — OverTheWire Bandit wargame, worked level by level with solutions and key commands
+- `Bash/` — scripting challenges covering arithmetic, file operations, and automation
+- `AWS/` — practical assignments including VPC/networking architecture and Application Load Balancer setup
 
-## How I Use This Repo
-- Focus on short, practical notes instead of long theory
-- Each Bandit level includes:
-  - Task
-  - A short solution in my own words
-  - Key commands used
-- Includes a growing Linux cheat sheet based on real commands I use regularly
+## Approach
+
+Short, practical notes over long theory. Every entry includes what the task was, how I solved it, and the commands used.
