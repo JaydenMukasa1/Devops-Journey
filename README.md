@@ -12,7 +12,7 @@ The repo is organised by topic:
   - `Bandit/` – level-by-level notes and solutions from the OverTheWire Bandit wargame
 - `Bash/` – scripts and exercises
 - `Git/` – Git concepts, commands, and examples 
-- `Networking/` – notes and practical examples 
+- `AWS/` – notes and practical examples 
 
 ## How I Use This Repo
 - Focus on short, practical notes instead of long theory
