@@ -9,7 +9,7 @@ Used ls to view the home directory, cd to enter inhere, then ran find . ! -execu
 
 
 ## Key Commands 
-ls
-cd
-cat
-find
+- ls
+- cd
+- cat
+- find
