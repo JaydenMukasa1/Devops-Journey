@@ -8,8 +8,8 @@ Used cd to change to the inhere directory, ls showed nothing because the file wa
 Then used cat ./...Hiding-From-You to view the password.
 
 ## Key Commands 
-cd
-ls 
-find 
-cat
+- cd
+- ls 
+- find 
+- cat
 
