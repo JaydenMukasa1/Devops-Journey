@@ -7,5 +7,5 @@ The password for the next level is stored in the file data.txt, where all lowerc
 The file was encoded with ROT13, which shifts each letter 13 places in the alphabet. I used  cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m' to decode the text, which revealed the password.
 
 ## Key Commands 
-tr
-cat
+- tr
+- cat
