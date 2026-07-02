@@ -10,5 +10,5 @@ This file also starts with --, which makes Linux think it is an option, so we ad
 cat -- "--spaces in this filename--"
 
 ## Key Commands 
-ls
-cat
+- ls
+- cat
