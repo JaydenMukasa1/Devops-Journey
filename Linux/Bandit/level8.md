@@ -8,6 +8,6 @@ Sort to organise the file so duplicate lines are grouped together, then used uni
 
 
 ## Key Commands 
-sort
-uniq
+- sort
+- uniq
 
