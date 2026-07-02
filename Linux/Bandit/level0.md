@@ -8,5 +8,5 @@ Look at the contents of the directory using ls.
 Found the "readme" file, then used cat to view the contents.
 
 ## Key Commands
-cat 
-ls
+- cat 
+- ls
