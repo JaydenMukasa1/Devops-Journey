@@ -1,6 +1,6 @@
 # DevOps Journey
 
-A centralised record of my hands-on learning across core DevOps disciplines — Linux, Bash, and AWS.
+A record of my hands-on learning across DevOps focused tooling: Linux, Bash, and AWS.
 
 ## Structure
 
