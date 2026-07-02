@@ -7,5 +7,5 @@ Find the password for the next level in a file named - located in the home direc
 Used find to search for files in the directory, then cat to view the contents of the file once found.  
 
 ## Commands used
-find 
-cat
+- find 
+- cat
