@@ -1,6 +1,6 @@
 # Linux
 
-Linux work completed as part of my DevOps learning.
+Linux work completed as part of my DevOps journey.
 
 ## Contents
 
