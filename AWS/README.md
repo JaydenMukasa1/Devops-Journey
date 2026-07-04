@@ -1,6 +1,6 @@
 # AWS
 
-Practical AWS assignments completed as part of my DevOps learning.
+Practical AWS assignments completed as part of my DevOps journey.
 
 ## Contents
 
