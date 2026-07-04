@@ -1,6 +1,6 @@
 # Bash
 
-Scripting challenges written as part of my DevOps learning.
+Scripting challenges written as part of my DevOps journey.
 
 ## Contents
 
